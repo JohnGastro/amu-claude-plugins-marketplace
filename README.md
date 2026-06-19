@@ -16,7 +16,7 @@ Amu社内向け Claude / Cowork プラグイン配布用ディレクトリです
 ## インストール
 
 ```sh
-claude plugin marketplace add <このリポジトリのURL>
+claude plugin marketplace add https://github.com/JohnGastro/amu-claude-plugins-marketplace
 claude plugin install amu-temairazu-manual@amu-claude-plugins
 ```
 
