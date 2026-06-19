@@ -5,7 +5,7 @@ description: >
   「手間いらず」「TEMAIRAZU」「在庫」「売止め」「料金」「料金ランク」「予約管理」
   「部屋タイプ」「プラン」「予約サイト設定」「じゃらん」「楽天」「Booking.com」
   「OTA連携」「サイトコントローラー」など、宿泊施設運用の手間いらず操作質問で使用する。
-version: 0.1.0
+version: 0.1.1
 ---
 
 # TEMAIRAZU Manual Skill
