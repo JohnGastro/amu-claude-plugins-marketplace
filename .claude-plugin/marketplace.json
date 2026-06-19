@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "amu-claude-plugins",
-  "description": "Amu社内向け Claude / Cowork プラグイン集",
+  "description": "Amu向け Claude / Cowork プラグイン集",
   "owner": {
     "name": "Amu"
   },

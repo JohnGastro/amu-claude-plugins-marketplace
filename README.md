@@ -1,12 +1,6 @@
 # Amu Claude Plugins Marketplace
 
-Amu社内向け Claude / Cowork プラグイン配布用ディレクトリです。
-
-## 重要
-
-このリポジトリは **private repo として運用**してください。
-
-`amu-temairazu-manual` はTEMAIRAZU（手間いらず）のログイン後マニュアル本文を参照資料として含みます。社内利用のための配布物であり、public repo、社外共有、外部公開ページには置かないでください。
+Amu向け Claude / Cowork プラグイン配布用ディレクトリです。
 
 ## 含まれるプラグイン
 
@@ -39,7 +33,6 @@ claude plugin install amu-temairazu-manual@amu-claude-plugins
 - [社員向けインストール手順](./INSTALL.md)
 - [使い方マニュアル](./USAGE.md)
 - [運用・更新手順](./MAINTENANCE.md)
-- [取り扱い注意](./SECURITY.md)
 
 ## 検証
 
