@@ -1,0 +1,17 @@
+{
+  "name": "amu-temairazu-manual",
+  "version": "0.1.0",
+  "description": "Amu社内向け。TEMAIRAZU（手間いらず）Webマニュアルを根拠に、在庫・料金・予約・サイト設定などの日常操作を案内するプラグイン。",
+  "author": {
+    "name": "Amu / whatshobby"
+  },
+  "keywords": [
+    "Amu",
+    "TEMAIRAZU",
+    "手間いらず",
+    "サイトコントローラー",
+    "ホテル運用",
+    "宿泊管理",
+    "操作マニュアル"
+  ]
+}

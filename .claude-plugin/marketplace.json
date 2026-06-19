@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "amu-claude-plugins",
+  "description": "Amu社内向け Claude / Cowork プラグイン集",
+  "owner": {
+    "name": "Amu"
+  },
+  "plugins": [
+    {
+      "name": "amu-temairazu-manual",
+      "description": "TEMAIRAZU（手間いらず）Webマニュアルを根拠に、在庫・料金・予約・サイト設定などの日常操作を案内する。",
+      "author": {
+        "name": "Amu / whatshobby"
+      },
+      "category": "productivity",
+      "source": "./plugins/amu-temairazu-manual",
+      "homepage": "https://www.temairazu.com/"
+    }
+  ]
+}
